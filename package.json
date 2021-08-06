@@ -1,0 +1,15 @@
+{
+  "name": "cucumber-log-steps",
+  "version": "1.0.0",
+  "description": "Log steps for cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["testcafe", "reporter", "plugin", "sentryio"],
+  "author": "krabien@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "import-cwd": "*"
+  }
+}
